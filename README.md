@@ -37,8 +37,8 @@ Lunch Hours: 12 PM – 2 PM
 Dinner Hours: 6 PM – 8 PM
 
 Monthly Revenue Trends:
-Highest Revenue: August and December (~$73K and $71K, respectively).
-Lowest Revenue: February and October (~$64K).
+Highest Revenue: August and December ($73K and $71K).
+Lowest Revenue: February and October ($64K).
 
 Top-Performing Pizzas:
 By Revenue: Thai Chicken Pizza ($43K), Barbecue Chicken Pizza ($43K), California Chicken Pizza ($41K).
